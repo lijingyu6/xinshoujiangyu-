@@ -1,0 +1,13 @@
+{
+  "background_color": "#ff0000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "薪守疆隅",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "redguard",
+  "start_url": "/",
+  "theme_color": "#cca6a6",
+  "id": "xinshou-jiangyu",
+  "description": "app"
+}
